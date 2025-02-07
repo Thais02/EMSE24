@@ -4,6 +4,8 @@
 /DATAR/__MACOSX/
 /DATAR/release_related/
 .DS_Store
+/q1/plots/
+/supplementary_data
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
